@@ -289,7 +289,7 @@
         "tab_id_1": "1",
         "featured_collection_title_1": "Womens",
         "products_to_show_1": 12,
-        "collection_2": "mens-seachange",
+        "collection_2": "mens-seachange1",
         "tab_id_2": "2",
         "featured_collection_title_2": "Mens",
         "products_to_show_2": 12,
@@ -396,7 +396,7 @@
             "font_style": "h3",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/mens-seachange",
+            "link": "shopify:\/\/collections\/mens-seachange1",
             "info_on_image": true
           }
         }
