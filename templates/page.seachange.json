@@ -285,7 +285,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
-        "collection_1": "womens-seachange",
+        "collection_1": "womens-seachange1",
         "tab_id_1": "1",
         "featured_collection_title_1": "Womens",
         "products_to_show_1": 12,
@@ -384,7 +384,7 @@
             "font_style": "h3",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/womens-seachange",
+            "link": "shopify:\/\/collections\/womens-seachange1",
             "info_on_image": true
           }
         },
