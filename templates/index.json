@@ -179,7 +179,7 @@
             "heading_size": "h1",
             "subheading": "A consciously-crafted, once-forgotten classic.",
             "button_label_1": "Shop Womens",
-            "button_link_1": "shopify:\/\/collections\/womens-all",
+            "button_link_1": "shopify:\/\/collections\/womens-all-2",
             "button_label_2": "Shop Mens",
             "button_link_2": "shopify:\/\/collections\/mens-best-sellers",
             "button_style_secondary": false,
@@ -242,7 +242,7 @@
             "font_style": "h3",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/womens-all",
+            "link": "shopify:\/\/collections\/womens-all-2",
             "info_on_image": false
           }
         },
