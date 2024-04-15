@@ -2,7 +2,6 @@
   "sections": {
     "164867367120e1947e": {
       "type": "hero-banner",
-      "disabled": true,
       "blocks": {
         "1648673671d11f3268-0": {
           "type": "heading",
@@ -41,6 +40,7 @@
         "1648673671d11f3268-1",
         "1648673671d11f3268-2"
       ],
+      "disabled": true,
       "settings": {
         "use_video_background": false,
         "hero_video_desktop": "",
@@ -117,7 +117,6 @@
     },
     "16503151834eccf6ed": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16503151836c7554cd-0": {
           "type": "heading",
@@ -131,6 +130,7 @@
       "block_order": [
         "16503151836c7554cd-0"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -146,7 +146,6 @@
     },
     "1649806229c9386eb6": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "16498062295f24c743-1": {
           "type": "slide",
@@ -221,6 +220,7 @@
         "16498062295f24c743-0",
         "04688f63-0415-4571-b9c8-2d6b75c97e05"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -254,7 +254,7 @@
             "font_style": "h3",
             "text": "",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/mens-all",
+            "link": "shopify:\/\/collections\/mens-all-2",
             "info_on_image": false
           }
         },
@@ -295,7 +295,6 @@
     },
     "16498083081f9f26ae": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "16498083081347e1fe-0": {
           "type": "heading",
@@ -326,6 +325,7 @@
         "16498083081347e1fe-1",
         "16498083081347e1fe-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/seatrees_mobile_header_111111_v2.jpg",
         "height": "adapt",
@@ -481,7 +481,6 @@
     },
     "16470178216c89dbf8": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1647017821b513cad8-0": {
           "type": "column",
@@ -512,6 +511,7 @@
         "1647017821b513cad8-0",
         "1647017821b513cad8-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",

@@ -201,7 +201,6 @@
     },
     "16486625605033c200": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16486625607114ebd2-0": {
           "type": "heading",
@@ -224,6 +223,7 @@
         "16486625607114ebd2-0",
         "16486625607114ebd2-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -239,7 +239,6 @@
     },
     "1653277202c9ad8519": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "16532772021a8c358f-0": {
           "type": "featured_collection",
@@ -265,6 +264,7 @@
         "16532772021a8c358f-1",
         "16532772021a8c358f-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
@@ -280,7 +280,6 @@
     },
     "1648672607c7bf90a3": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1648672607d8bd7211-1": {
           "type": "column",
@@ -302,7 +301,7 @@
             "font_style": "h3",
             "text": "",
             "link_label": "Shop",
-            "link": "shopify:\/\/collections\/mens-all",
+            "link": "shopify:\/\/collections\/mens-all-2",
             "info_on_image": true
           }
         }
@@ -311,6 +310,7 @@
         "1648672607d8bd7211-1",
         "1648672607d8bd7211-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
