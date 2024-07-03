@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ locale }}" dir="{{ direction }}" class="{{ checkout_html_classes }}">
   <head>
+<!-- Start of Shoplift scripts -->
+{% render 'shoplift.checkout' %}
+<!-- End of Shoplift scripts -->
+
   {% render 'elevar-head-listener' %}
   {% render 'elevar-head' %}
     <meta charset="utf-8">
