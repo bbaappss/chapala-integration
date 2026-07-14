@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -20,42 +29,42 @@
           "type": "page_menu_link",
           "settings": {
             "link_text": "All Shoes",
-            "link_url": "shopify:\/\/collections\/womens-all-2"
+            "link_url": "shopify://collections/womens-all-2"
           }
         },
         "1647540048d1a1866c-0": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Sneakers",
-            "link_url": "shopify:\/\/collections\/womens-sneakers"
+            "link_url": "shopify://collections/womens-sneakers"
           }
         },
         "b4cd12a9-d2ad-416c-864a-e6a38f02edfd": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Platforms",
-            "link_url": "shopify:\/\/collections\/womens-platforms"
+            "link_url": "shopify://collections/womens-platforms"
           }
         },
         "9cb28455-48c3-4a71-be24-47a91bb1da94": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Slip Ons",
-            "link_url": "shopify:\/\/collections\/womens-slip-ons-2"
+            "link_url": "shopify://collections/womens-slip-ons-2"
           }
         },
         "772076c4-177e-4d96-a733-706639b552ab": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Boots",
-            "link_url": "shopify:\/\/collections\/womens-boots"
+            "link_url": "shopify://collections/womens-boots"
           }
         },
         "5d7ba906-5528-463a-afca-5da7d5419bfb": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Sandals & Slippers",
-            "link_url": "shopify:\/\/collections\/womens-sandals-slippers"
+            "link_url": "shopify://collections/womens-clogs"
           }
         }
       },
