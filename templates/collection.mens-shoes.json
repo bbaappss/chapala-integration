@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -20,42 +29,42 @@
           "type": "page_menu_link",
           "settings": {
             "link_text": "All Shoes",
-            "link_url": "shopify:\/\/collections\/mens-all-2"
+            "link_url": "shopify://collections/mens-all-2"
           }
         },
         "1647540368872c6daf-0": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Sneakers",
-            "link_url": "shopify:\/\/collections\/mens-sneakers"
+            "link_url": "shopify://collections/mens-sneakers"
           }
         },
         "32c85ed8-ca9b-425e-b334-1c1493fec480": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Slip Ons",
-            "link_url": "shopify:\/\/collections\/mens-slip-ons-2"
+            "link_url": "shopify://collections/mens-slip-ons-2"
           }
         },
         "de062f57-b2c7-4771-8f3b-a6229576d9bc": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Boots",
-            "link_url": "shopify:\/\/collections\/mens-boots"
+            "link_url": "shopify://collections/mens-boots"
           }
         },
         "d462bddf-5835-4b27-af85-f7bc2dd775b3": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Sandals & Slippers",
-            "link_url": "shopify:\/\/collections\/mens-sandals-slippers"
+            "link_url": "shopify://collections/mens-sandals-and-clogs"
           }
         },
         "52e0ec5d-fc54-4a0e-a5ef-089e0b3846e3": {
           "type": "page_menu_link",
           "settings": {
             "link_text": "Casuals",
-            "link_url": "shopify:\/\/collections\/mens-casuals"
+            "link_url": "shopify://collections/mens-casuals"
           }
         }
       },
