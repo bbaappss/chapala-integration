@@ -1,7 +1,7 @@
 {{ 'section-page-menu.css' | asset_url | stylesheet_tag }}
 
 {% assign c = collection.metafields.seavees.collection_page_menu %}
-{% include "collection-page-menu" with linklistHandle: c %}
+{% include "collection-page-menu" with linklistHandle, linklistHandle: c %}
 
 {% schema %}
 {
@@ -15,3 +15,13 @@
   ] 
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: '{% include "collection-page-menu" with linklistHandle: c %}'
+  to: '{% include "collection-page-menu" with linklistHandle, linklistHandle: c %}'
+  position: 128..203
+{% endcomment %}
